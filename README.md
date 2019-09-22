@@ -1,6 +1,6 @@
 # fraud_detection
-I use this Kaggle data. 
-Please download those files when you run for testing. 
+I use this Kaggle data.  
+Please download those files when you run for testing.  
 https://www.kaggle.com/c/ieee-fraud-detection/data
 
 I only use this data this time.
